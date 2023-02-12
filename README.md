@@ -1,3 +1,3 @@
-## 21-movie-DB
+# IMDb
 
 ![movie-DB](./21-moviedb.gif)
